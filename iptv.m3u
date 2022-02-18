@@ -1,86 +1,85 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" group-title="HK", RTHK31
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="https://www.rthk.hk/img/tv_logo_31_s.svg" group-title="HK", RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" group-title="HK", RTHK32
+#EXTINF:-1 tvg-id="2" tvg-name="" tvg-logo="https://www.rthk.hk/img/tv_logo_32_s.svg" group-title="HK", RTHK32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rthk.hk/img/tv_logo_33_s.svg" group-title="HK", RTHK33
+#EXTINF:-1 tvg-id="3" tvg-name="" tvg-logo="https://www.rthk.hk/img/tv_logo_33_s.svg" group-title="HK", RTHK33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo.png" group-title="HK", 香港國際財經台
+#EXTINF:-1 tvg-id="4" tvg-name="香港国际财经台" tvg-logo="http://www.hkibchannel.com.hk/images/hkibc_logo.png" group-title="HK", 香港國際財經台
 https://cdn.hkdtmb.com/hls/76/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="HK", 香港開電視
+#EXTINF:-1 tvg-id="5" tvg-name="香港开电视" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="HK", 香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台(第1聲道繁体)
+#EXTINF:-1 tvg-id="6" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台(第1聲道繁体)
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台(第2聲道简体)
+#EXTINF:-1 tvg-id="7" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台(第2聲道简体)
 http://iptv.tvfix.org/hls/jade2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台海外版(粤语繁体)
+#EXTINF:-1 tvg-id="8" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台海外版(粤语繁体)
 http://iptv.tvfix.org/hls/jadenhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台海外版(普通话简体)
+#EXTINF:-1 tvg-id="9" tvg-name="翡翠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/jade.gif" group-title="HK", 翡翠台海外版(普通话简体)
 http://iptv.tvfix.org/hls/jadenhk2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" group-title="HK", J2
+#EXTINF:-1 tvg-id="10" tvg-name="J2" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" group-title="HK", J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" group-title="HK", J2
+#EXTINF:-1 tvg-id="11" tvg-name="J2" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" group-title="HK", J2
 http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" group-title="HK", J2(第2聲道)
+#EXTINF:-1 tvg-id="12" tvg-name="J2" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/j2.gif" group-title="HK", J2(第2聲道)
 http://iptv.tvfix.org/hls/j22.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbnewschannel.gif" group-title="HK", 無綫新聞台
+#EXTINF:-1 tvg-id="13" tvg-name="无线新闻" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbnewschannel.gif" group-title="HK", 無綫新聞台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbnewschannel.gif" group-title="HK", 無綫新聞台(第2聲道)
+#EXTINF:-1 tvg-id="14" tvg-name="无线新闻" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbnewschannel.gif" group-title="HK", 無綫新聞台(第2聲道)
 http://iptv.tvfix.org/hls/inews2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/pearl.gif" group-title="HK", 明珠台
+#EXTINF:-1 tvg-id="15" tvg-name="明珠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/pearl.gif" group-title="HK", 明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/pearl.gif" group-title="HK", 明珠台(第2声道)
+#EXTINF:-1 tvg-id="16" tvg-name="明珠台" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/pearl.gif" group-title="HK", 明珠台(第2声道)
 http://iptv.tvfix.org/hls/pearl2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbfinanceinformationchannel.gif" group-title="HK", 無綫財經資訊台
+#EXTINF:-1 tvg-id="17" tvg-name="无线财经" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbfinanceinformationchannel.gif" group-title="HK", 無綫財經資訊台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbfinanceinformationchannel.gif" group-title="HK", 無綫財經資訊台(第2聲道)
+#EXTINF:-1 tvg-id="18" tvg-name="无线财经" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbfinanceinformationchannel.gif" group-title="HK", 無綫財經資訊台(第2聲道)
 http://iptv.tvfix.org/hls/finance2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbfinanceinformationchannel.gif" group-title="HK", 無綫財經資訊台海外版
+#EXTINF:-1 tvg-id="19" tvg-name="无线财经" tvg-logo="http://img.tvb.com/epg/img/phd_logos_v4/gif/tvbfinanceinformationchannel.gif" group-title="HK", 無綫財經資訊台海外版
 http://iptv.tvfix.org/hls/financenhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ViuTVsix-logo.svg" group-title="HK", ViuTV6
+#EXTINF:-1 tvg-id="20" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ViuTVsix-logo.svg" group-title="HK", ViuTV6
 http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HK", ViuTV
+#EXTINF:-1 tvg-id="21" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HK", ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HK", ViuTV(第2聲道)
+#EXTINF:-1 tvg-id="22" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="HK", ViuTV(第2聲道)
 http://iptv.tvfix.org/hls/viutv2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/108.png" group-title="HK",有線財經資訊台
+#EXTINF:-1 tvg-id="23" tvg-name="" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/108.png" group-title="HK",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/109.png" group-title="HK",有線新聞台
+#EXTINF:-1 tvg-id="24" tvg-name="" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/109.png" group-title="HK",有線新聞台
 http://livetv.dnsfor.me/channel.5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/110.png" group-title="HK",有線直播台
+#EXTINF:-1 tvg-id="25" tvg-name="" tvg-logo="http://epg.i-cable.com/new/images/epgMobileIcon/110.png" group-title="HK",有線直播台
 http://livetv.dnsfor.me/channel.7.m3u8	
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="HK",NOW新聞台
+#EXTINF:-1 tvg-id="26" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/331-wbg-c.png" group-title="HK",NOW新聞台
 http://livetv.dnsfor.me/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="HK",NOW直播台
+#EXTINF:-1 tvg-id="27" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/332-wbg-c.png" group-title="HK",NOW直播台
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="HK",NOW Sports PRIME
+#EXTINF:-1 tvg-id="28" tvg-name="" tvg-logo="https://www.nowtv.now.com/media/logo/630-wbg-c.png" group-title="HK",NOW Sports PRIME
 http://livetv.dnsfor.me/channel.12.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HK", 瞬間看地球
+#EXTINF:-1 tvg-id="29" tvg-name="" tvg-logo="" group-title="HK", 瞬間看地球
 http://iptv.tvfix.org/hls/earth.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="HK", 美亞電影台(粤语)
+#EXTINF:-1 tvg-id="30" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="HK", 美亞電影台(粤语)
 http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="HK", 美亞電影台(普通话)
+#EXTINF:-1 tvg-id="31" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="HK", 美亞電影台(普通话)
  http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/ba/Hands_Up_Channel_logo_2020.png" group-title="HK", Hands Up Channel
+#EXTINF:-1 tvg-id="32" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/ba/Hands_Up_Channel_logo_2020.png" group-title="HK", Hands Up Channel
 http://iptv.tvfix.org/hls/kid.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/ba/Hands_Up_Channel_logo_2020.png" group-title="HK", Hands Up Channel(第2声道)
+#EXTINF:-1 tvg-id="33" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/ba/Hands_Up_Channel_logo_2020.png" group-title="HK", Hands Up Channel(第2声道)
 http://iptv.tvfix.org/hls/kid2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="HK", TVB经典台
+#EXTINF:-1 tvg-id="34" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="HK", TVB经典台
 http://iptv.tvfix.org/hls/tvbjd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbweishi.jpg" group-title="HK", TVB为食台
+#EXTINF:-1 tvg-id="35" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbweishi.jpg" group-title="HK", TVB为食台
 http://iptv.tvfix.org/hls/tvbws.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbweishi.jpg" group-title="HK", TVB为食台(第2声道)
+#EXTINF:-1 tvg-id="36" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbweishi.jpg" group-title="HK", TVB为食台(第2声道)
 http://iptv.tvfix.org/hls/tvbws2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="HK", TVB星河(粤语)
+#EXTINF:-1 tvg-id="37" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="HK", TVB星河(粤语)
 http://iptv.tvfix.org/hls/tvbxh.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=TVB星河频道"" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="HK", TVB星河(普通话)
+#EXTINF:-1 tvg-id="38" tvg-name=TVB星河频道"" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%9F%E6%B2%B3.png" group-title="HK", TVB星河(普通话)
 http://iptv.tvfix.org/hls/tvbxh2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="HK", TVB功夫台(粤语)
+#EXTINF:-1 tvg-id="39" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="HK", TVB功夫台(粤语)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="HK", TVB功夫(普通话)
+#EXTINF:-1 tvg-id="40" tvg-name="" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvbgongfu.jpg" group-title="HK", TVB功夫(普通话)
 http://iptv.tvfix.org/hls/tvbkf2.m3u8
 
 
